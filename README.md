@@ -17,3 +17,5 @@ However, there are some limitations. Both Plotly and Dash can have performance i
 Below, you'll find some images showcasing the final dashboard.
 
 Additionally, I will provide the .ipynb file for those who wish to use and explore the code themselves.
+
+[Dashboard Image]([images/dashboard.png](https://github.com/luizkrawiec/ploty-and-dash/blob/main/dash%20ploty-01.png))
